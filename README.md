@@ -28,7 +28,7 @@ Evaluar cuál de las tres IA realizó un mejor trabajo en términos de:
 
 Comparativa de las IA
 
- IA 1
+ IA 1 Deepseek
 - Estructura: Muy completa, separa servidores Web, Correo y FTP, luego puertos y recomendaciones.  
 - Contenido técnico: Explicación detallada de puertos, servicios, comandos, verificación de logs, DNS y SSL/TLS.  
 - Aplicabilidad práctica: Alta; ideal para administradores de red después de un mantenimiento.  
@@ -36,7 +36,7 @@ Comparativa de las IA
 - Profundidad: Alta; combina teoría, práctica y recomendaciones.  
 - Extras útiles: Incluye herramientas de verificación, monitoreo post-mantenimiento y documentación de incidencias.
 
- IA 2
+ IA 2 Geminni
 - Estructura: Ordenada, presenta los servicios con puertos y un checklist práctico de verificación.  
 - Contenido técnico: Precisa y práctica, con comandos y checklist rápido; menos teoría que IA 1.  
 - Aplicabilidad práctica: Muy alta; comandos concretos y checklist exportable a Excel o similar.  
@@ -44,7 +44,7 @@ Comparativa de las IA
 - Profundidad: Media-alta; balance entre técnica y simplicidad.  
 - Extras útiles: Comandos concretos para comprobar cada servicio.
 
- IA 3
+ IA 3 Copilot
 - Estructura: Limpia y simple, solo describe servicios y puertos.  
 - Contenido técnico: Correcta pero breve; no incluye pasos de verificación ni herramientas.  
 - Aplicabilidad práctica: Media; útil como resumen teórico, no como guía operativa.  
