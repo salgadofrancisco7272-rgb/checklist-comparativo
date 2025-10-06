@@ -66,5 +66,4 @@ La IA 1 realizó el mejor trabajo, porque:
 La IA 2 destaca por su claridad y formato práctico (segunda mejor opción).  
 La IA 3 es útil solo como resumen teórico o material introductorio.
 
-- Versionar y actualizar fácilmente la información.
 
